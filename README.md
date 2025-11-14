@@ -42,6 +42,17 @@ src/
 
 ## 🚀 Inicio Rápido
 
+### Paso 0: Unzip
+Donwload the zip: https://www.kaggle.com/datasets/grassknoted/asl-alphabet?select=asl_alphabet_train
+
+Unzip in data/asl_alphabet_train.zip
+
+```
+├── data/
+|   ├── asl_alphabet_train/
+|   |    ├── A/
+|   |    ├── B/
+
 ### Paso 1: Instalación
 
 1. Crea un entorno virtual (recomendado):
